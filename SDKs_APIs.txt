@@ -1,0 +1,16 @@
+The Employee Happiness/Satisfaction Index Web Application may use a variety of SDKs (Software Development Kits), APIs (Application Programming Interfaces), assets, and libraries to support its functionality and enhance its capabilities. Some examples of these resources may include:
+
+JDK (Java Development Kit) : Is a software development kit that provides the tools and resources necessary for developing and compiling Java applications. It includes a set of command-line tools, libraries, and documentation for writing, testing, and debugging Java applications.
+
+npm (Node Package Manager) : Is a command-line tool used to install, manage, and share packages (i.e., libraries, frameworks, and tools) for Node.js applications. It provides access to a large repository of open-source packages, including many packages that are commonly used in web development.
+
+Angular Material: A UI component library for Angular that provides pre-built UI components such as buttons, forms, and dialog boxes.
+
+ng2charts : Is an open-source charting library for Angular, which provides a simple way to create various charts and graphs, such as line charts, bar charts, pie charts, and more. It is built on top of the popular chart.js library and provides a set of Angular components that can be easily integrated into an application.
+
+Hibernate: An object-relational mapping library for Java that can be used to map objects to a relational database and streamline data access.
+
+JpaRepository : Is an interface provided by Spring Data JPA that provides a set of CRUD (Create, Read, Update, Delete) operations for working with data in a database. It extends the PagingAndSortingRepository interface and adds additional methods for querying data.
+
+
+These are just a few examples of the many SDKs, APIs, assets, and libraries that may be used in the Employee Happiness/Satisfaction Index Web Application. The specific resources used will depend on the requirements of the project and the preferences of the development team.

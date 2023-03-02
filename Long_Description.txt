@@ -1,0 +1,9 @@
+The Employee Happiness/Satisfaction Index Web Application is a tool designed to help organizations gather data and generate reports about employee well-being in the workplace. The application prompts employees to answer a series of questions through a user interface built using Angular. The questions are designed to cover a wide range of factors that can impact employee satisfaction and happiness, such as work-life balance, job security, team dynamics, management style, and personal issues.
+
+The back-end of the application is built using SpringBoot, a powerful and flexible Java-based framework. The back-end is responsible for storing the data collected from employees and generating reports based on that data. The back-end is designed to be scalable and flexible, allowing it to handle large volumes of data and integrate with other HR systems and tools as needed.
+
+The user interface built with Angular is designed to be intuitive and easy to use. It guides employees through the survey process, providing helpful prompts and feedback to ensure that all questions are answered accurately and completely. The Angular front-end is also designed to be responsive, meaning that it will work seamlessly across a wide range of devices and screen sizes.
+
+Once the data is collected from employees, the back-end of the application generates the data analysis techniques to generate detailed graphical reports.
+
+Overall, the Employee Happiness/Satisfaction Index Web Application is a powerful and versatile tool that can help organizations improve employee satisfaction, boost productivity, and create a more positive and supportive work environment. By combining the intuitive UI of Angular with the powerful back-end of SpringBoot, the application provides a seamless and efficient way to gather employee data and generate meaningful reports.

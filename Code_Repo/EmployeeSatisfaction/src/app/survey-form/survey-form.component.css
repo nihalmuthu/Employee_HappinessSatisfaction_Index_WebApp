@@ -1,0 +1,21 @@
+.example-tab-icon {
+  margin-right: 8px;
+}
+
+.btn-holder {
+  position: relative;
+}
+
+button{
+  position: fixed;
+  bottom: 40px;
+  right: 80px;
+}
+.progressbar{
+  width: 90.7%;
+}
+
+mat-slider {
+  width: 300px;
+  margin-left: 20px;
+}

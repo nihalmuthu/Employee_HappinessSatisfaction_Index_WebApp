@@ -1,0 +1,9 @@
+Front-End : Angular
+Back-End : SpringBoot
+Database : Inbuilt H2 Database
+Tools Used : STS, VS Code
+
+
+The Employee Happiness/Satisfaction Index Web Application is built using Angular for the front-end and SpringBoot for the back-end. Angular is a TypeScript-based open-source framework for building user interfaces, while SpringBoot is a Java-based framework for building robust, scalable, and flexible back-end systems. Together, these two frameworks provide a powerful and versatile platform for building a web application that is intuitive, easy to use, and highly customizable.
+
+In addition to Angular and SpringBoot, other tools and technologies used to build the Employee Happiness/Satisfaction Index Web Application may include HTML, CSS, JavaScript, Java, TypeScript, and various libraries and frameworks for data analysis, visualization, and security. The specific tools and technologies used may depend on the requirements of the project and the preferences of the development team.
